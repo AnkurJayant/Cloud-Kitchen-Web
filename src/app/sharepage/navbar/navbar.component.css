@@ -1,0 +1,20 @@
+.navbar-expand-lg .navbar-nav .nav-link
+{
+    color: var(--secondary-color);
+}
+.navbar-expand-lg .navbar-nav .nav-link.active-link
+{
+    color: var(--primary-color);
+    text-decoration: underline;
+}
+.highlight
+{
+    color: var(--primary-color);
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+a{
+    font-weight: bold;
+
+}

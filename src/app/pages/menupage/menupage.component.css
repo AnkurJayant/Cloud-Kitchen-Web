@@ -1,0 +1,15 @@
+img{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+form{
+    margin-top: 10%;
+    width: 50%;
+}
+form *{
+    margin-top: 15px;
+}
